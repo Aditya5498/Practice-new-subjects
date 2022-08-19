@@ -1,0 +1,7 @@
+1) numpy -> work with Multidimensional arrays
+2) pandas -> organize data in a tabular form and to attach descriptive labels to the rows and columns
+3) scipy -> contains a lot of tools for scientific calclations for ML, engineering, maths
+4) statsmodels -> built on top of NumPy and SciPy which integrates with pandas and provides good summary
+5) matplotlib -> 2D plotting library specially designed for visualization of NumPy Computations
+6) seaborn -> data visualition for high level maths
+7) sklearn -> sciit-learm is one of most widely used ML libraries 

@@ -1,0 +1,6 @@
+	
+1) LINEAR REGRESSION MODEL EQUATION (a.k.a regression analysis):
+			^
+			y = b0 +b1x
+From the above equation, we can conlude that the answer is dependent on the input and varies.
+
